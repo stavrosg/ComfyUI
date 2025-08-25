@@ -1,3 +1,5 @@
+Drag the photo into Comfyui for workflow!
+
 | Flux.1 DEV | Flux.1 DEV 8b GGUF |Flux.1 Krea | Qwen Image | Wan2.2 T2I | 
 |-------|-------|-------|-------|-------|
 | <img title="Flux DEV" height="150" width="150" src="_0_ComfyUI_T2I_FLUX_20250806152_0_555_00001_.png">  | <img title="Flux DEV 8bit GGUF" height="150" width="150" src="_0_ComfyUI_T2I_FLUX_20250806152_0_555_00001_.png"> | <img title="Flux Krea" height="150" width="150" src="_0_ComfyUI_T2I_FLUX_KREA_GGUF_Q8_20250806182955_00001_.png" > | <img title="Qwen Image" height="150" width="150" src="_0_ComfyUI_T2I_qwen_20250806152828_00001_.png"> | <img title="Wan 2.2 T2I" height="150" width="150" src="_0_ComfyUI_T2I_wan2.2_20250806154736_00001_.png"> |
@@ -7,5 +9,6 @@
 | <img title="Flux DEV" height="150" width="150" src="_4_ComfyUI_T2I_FLUX_20250806161730_00001_.png">  | <img title="Flux DEV 8bit GGUF" height="150" width="150" src="_4_ComfyUI_T2I_FLUX_GGUF_Q8_20250806181924_00001_.png"> | <img title="Flux Krea" height="150" width="150" src="_4_ComfyUI_T2I_FLUX_KREA_GGUF_Q8_20250806183157_00001_.png" > | <img title="Qwen Image" height="150" width="150" src="_4_ComfyUI_T2I_qwen_20250806163155_00001_.png"> | <img title="Wan 2.2 T2I" height="150" width="150" src="_4_ComfyUI_T2I_wan2.2_20250806162234_00001_.png"> |
 | <img title="Flux DEV" height="150" width="150" src="_5_ComfyUI_T2I_FLUX_20250806161720_00001_.png">  | <img title="Flux DEV 8bit GGUF" height="150" width="150" src="_5_ComfyUI_T2I_FLUX_GGUF_Q8_20250806182139_00001_.png"> | <img title="Flux Krea" height="150" width="150" src="_5_ComfyUI_T2I_qwen_20250806164553_00001_.png" > | <img title="Qwen Image" height="150" width="150" src="ComfyUI_T2I_qwen_20250825174300_00001_.png"> | <img title="Wan 2.2 T2I" height="150" width="150" src="_5_ComfyUI_T2I_wan2.2_20250806171544_00001_.png"> |
 | <img title="Flux DEV" height="150" width="150" src="_6_ComfyUI_T2I_FLUX_20250806161738_00001_.png">  | <img title="Flux DEV 8bit GGUF" height="150" width="150" src="_6_ComfyUI_T2I_FLUX_GGUF_Q8_20250806182214_00001_.png"> | <img title="Flux Krea" height="150" width="150" src="_6_ComfyUI_T2I_FLUX_KREA_GGUF_Q8_20250806183232_00001_.png" > | <img title="Qwen Image" height="150" width="150" src="_6_ComfyUI_T2I_qwen_20250806164729_00001_.png"> | <img title="Wan 2.2 T2I" height="150" width="150" src="_6_ComfyUI_T2I_wan2.2_20250806162227_00001_.png"> |
+
 
 
